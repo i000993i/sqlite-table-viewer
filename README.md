@@ -32,8 +32,6 @@ SQLite Table Viewer - это простое приложение для рабо
 
 - Python 3.8 или выше
 - pip (менеджер пакетов Python)
-### Доступно
-- Windows 10
 
 ### Пошаговая установка
 
@@ -202,5 +200,5 @@ chunk_size = 10000  # Размер чанка
 ---
 
 <div align="center">
-  <sub>Сделано с помощью DeepSeek</sub>
+  <sub>Сделано с ❤️ и ☕</sub>
 </div>
